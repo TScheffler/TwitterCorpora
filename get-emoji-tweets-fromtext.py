@@ -2,6 +2,7 @@
 # -*- coding: utf-8 -*-
 __author__ = 'Tatjana Scheffler <tatjana.scheffler@uni-potsdam.de>'
 
+# usage: get-emoji-tweets-fromtext.py [-h] indir outdir
 
 #read in tweets and get data for emoji
 
